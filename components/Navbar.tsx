@@ -20,8 +20,9 @@ export default function Navbar() {
 
     const links = [
         { name: "Home", target: "home" },
-        { name: "Project", target: "Project" },
-        { name: "Contact Details", target: "Contact Details" },
+        { name: "Projects", target: "work" },
+        { name: "About", target: "about" },
+        { name: "Contact", target: "contact" },
     ];
 
     const scrollToSection = (id: string) => {

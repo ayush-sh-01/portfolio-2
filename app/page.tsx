@@ -1,5 +1,6 @@
 import ScrollyCanvas from "@/components/ScrollyCanvas";
 import Projects from "@/components/Projects";
+import About from "@/components/About";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 
@@ -16,6 +17,11 @@ export default function Home() {
       {/* Content Section */}
       <section id="work">
         <Projects />
+      </section>
+
+      {/* About Section */}
+      <section id="about">
+        <About />
       </section>
 
       {/* Footer / Contact */}

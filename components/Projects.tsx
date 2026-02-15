@@ -88,17 +88,17 @@ export default function Projects() {
     </a>
   </div>
 
-  {/* Project 4: Myntra clone */}
+  {/* Project 4: My Portfolio */}
   <div className="bg-gray-900/80 backdrop-blur-sm p-8 rounded-xl border border-gray-700 hover:border-green-500 transition-all duration-300 flex flex-col justify-between">
     <div>
-      <h3 className="text-2xl font-bold text-white mb-2">Myntra-clone</h3>
+      <h3 className="text-2xl font-bold text-white mb-2">Ayush's portfolio</h3>
       <p className="text-green-400 uppercase tracking-wider text-sm mb-4">HTML • CSS • JavaScript </p>
       <p className="text-gray-300 leading-relaxed">
-       A modern Myntra Clone built using HTML, CSS, and JavaScript, designed to replicate the core UI and functionality of the popular e-commerce platform Myntra. 
+        This portfolio is built using Next.js 16 and React 19, leveraging Tailwind CSS 4 for high-performance styling and Framer Motion for smooth, interactive animations. It features a modern, responsive "scrollytelling" architecture designed with TypeScript to ensure a robust, professional, and visually engaging user experience.
       </p>
     </div>
     <a 
-      href="https://myntra-clone-nine-ruby.vercel.app/"  // ← Replace with actual Vercel URL
+      href="https://myporfolio-navy.vercel.app/"  // ← Replace with actual Vercel URL
       target="_blank" 
       rel="noopener noreferrer"
       className="mt-6 inline-flex items-center text-green-400 hover:text-green-300 font-medium group"
