@@ -109,16 +109,16 @@ export default function Projects() {
   </div>
 
   {/* Project 5: Myntra clone */}
-  {/* <div className="bg-gray-900/80 backdrop-blur-sm p-8 rounded-xl border border-gray-700 hover:border-green-500 transition-all duration-300 flex flex-col justify-between">
+  { <div className="bg-gray-900/80 backdrop-blur-sm p-8 rounded-xl border border-gray-700 hover:border-green-500 transition-all duration-300 flex flex-col justify-between">
     <div>
-      <h3 className="text-2xl font-bold text-white mb-2">Myntra-clone</h3>
+      <h3 className="text-2xl font-bold text-white mb-2">Apple web app</h3>
       <p className="text-green-400 uppercase tracking-wider text-sm mb-4">HTML • CSS • JavaScript </p>
       <p className="text-gray-300 leading-relaxed">
-       A modern Myntra Clone built using HTML, CSS, and JavaScript, designed to replicate the core UI and functionality of the popular e-commerce platform Myntra. 
+       A modern Apple Clone built using HTML, CSS, and JavaScript, designed to replicate the core UI and functionality of the popular e-commerce platform Apple. 
       </p>
     </div>
     <a 
-      href="https://myntra-clone-nine-ruby.vercel.app/"  // ← Replace with actual Vercel URL
+      href="https://apple-web-app-nine.vercel.app/"  // ← Replace with actual Vercel URL
       target="_blank" 
       rel="noopener noreferrer"
       className="mt-6 inline-flex items-center text-green-400 hover:text-green-300 font-medium group"
@@ -126,7 +126,7 @@ export default function Projects() {
       Visit
       <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
     </a>
-  </div> */}
+  </div> }
 
   {/* Project 6: Myntra clone */}
   {/* <div className="bg-gray-900/80 backdrop-blur-sm p-8 rounded-xl border border-gray-700 hover:border-green-500 transition-all duration-300 flex flex-col justify-between">
