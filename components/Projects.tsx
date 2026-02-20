@@ -38,7 +38,7 @@ export default function Projects() {
       </p>
     </div>
     <a 
-      href="https://your-vercel-url-for-encryption-project.vercel.app"  // ← Replace with actual Vercel URL
+      href="https://encryption-and-decryption-web-app.vercel.app/"  // ← Replace with actual Vercel URL
       target="_blank" 
       rel="noopener noreferrer"
       className="mt-6 inline-flex items-center text-blue-400 hover:text-blue-300 font-medium group"
@@ -48,17 +48,17 @@ export default function Projects() {
     </a>
   </div>
 
-  {/* Project 2: Linkdin demo */}
+  {/* Project 2: Social Media */}
   <div className="bg-gray-900/80 backdrop-blur-sm p-8 rounded-xl border border-gray-700 hover:border-purple-500 transition-all duration-300 flex flex-col justify-between">
     <div>
-      <h3 className="text-2xl font-bold text-white mb-2">Linkdin Clone </h3>
+      <h3 className="text-2xl font-bold text-white mb-2">Social Media App </h3>
       <p className="text-purple-400 uppercase tracking-wider text-sm mb-4">• HTML • CSS • JavaScript • GitHub</p>
       <p className="text-gray-300 leading-relaxed">
-        A modern LinkedIn Clone built using HTML, CSS, and JavaScript, designed to replicate the look and feel of the professional networking platform.
+        A modern Social Media web app built using HTML, CSS, and JavaScript, designed to replicate the look and feel of the professional networking platform.
       </p>
     </div>
     <a 
-      href="https://linkedin-clone-virid-three.vercel.app/"  // ← Replace with actual Vercel URL
+      href="https://social-media-pearl-rho.vercel.app/"  // ← Replace with actual Vercel URL
       target="_blank" 
       rel="noopener noreferrer"
       className="mt-6 inline-flex items-center text-purple-400 hover:text-purple-300 font-medium group"
@@ -109,7 +109,7 @@ export default function Projects() {
   </div>
 
   {/* Project 5: Myntra clone */}
-  <div className="bg-gray-900/80 backdrop-blur-sm p-8 rounded-xl border border-gray-700 hover:border-green-500 transition-all duration-300 flex flex-col justify-between">
+  {/* <div className="bg-gray-900/80 backdrop-blur-sm p-8 rounded-xl border border-gray-700 hover:border-green-500 transition-all duration-300 flex flex-col justify-between">
     <div>
       <h3 className="text-2xl font-bold text-white mb-2">Myntra-clone</h3>
       <p className="text-green-400 uppercase tracking-wider text-sm mb-4">HTML • CSS • JavaScript </p>
@@ -126,10 +126,10 @@ export default function Projects() {
       Visit
       <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
     </a>
-  </div>
+  </div> */}
 
   {/* Project 6: Myntra clone */}
-  <div className="bg-gray-900/80 backdrop-blur-sm p-8 rounded-xl border border-gray-700 hover:border-green-500 transition-all duration-300 flex flex-col justify-between">
+  {/* <div className="bg-gray-900/80 backdrop-blur-sm p-8 rounded-xl border border-gray-700 hover:border-green-500 transition-all duration-300 flex flex-col justify-between">
     <div>
       <h3 className="text-2xl font-bold text-white mb-2">Myntra-clone</h3>
       <p className="text-green-400 uppercase tracking-wider text-sm mb-4">HTML • CSS • JavaScript </p>
@@ -146,7 +146,8 @@ export default function Projects() {
       Visit
       <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
     </a>
-  </div>
+  </div> */}
+    
 
 </div>
         </div>
